@@ -23,5 +23,6 @@ module tb;
       $dumpfile("dump.vcd");
       $dumpvars();
     end 
+  
     endmodule
       
